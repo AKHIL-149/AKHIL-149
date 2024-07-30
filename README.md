@@ -22,10 +22,10 @@ I'm a passionate data analytics professional with a strong foundation in machine
 ## 🏆 Projects
 
 ### Dynamic Fraud Detection System
-Developed an adaptive fraud detection model using ensemble methods and concept drift detection mechanisms. [Link to repo]
+Developed an adaptive fraud detection model using ensemble methods and concept drift detection mechanisms.
 
 ### Foreign Exchange Trend Analysis and Prediction
-Created a comprehensive framework for analyzing and predicting forex trends using machine learning and data visualization techniques. [Link to repo]
+Created a comprehensive framework for analyzing and predicting forex trends using machine learning and data visualization techniques.
 
 ## 📈 Work Experience
 
