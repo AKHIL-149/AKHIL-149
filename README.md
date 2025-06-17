@@ -2,12 +2,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Venkata%20Akhil%20Mettu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Enterprise%20Data%20Solutions%20%7C%20ML%20Engineering%20%7C%20Business%20Intelligence&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🏢+Enterprise+Data+Solutions+Analyst;🤖+Machine+Learning+Engineer;📊+Business+Intelligence+Leader;🚀+Transforming+Data+into+Business+Value)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=800&height=150&lines=🏢+Enterprise+Data+Solutions+Analyst;🤖+Machine+Learning+Engineer;📊+Business+Intelligence+Leader;🚀+Transforming+Data+into+Business+Value)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-akhil-mettu-51a48b277)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatakhil149@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKHIL-149)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/venkata.akhil.mettu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.akhilportfolio.com/)
 
 </div>
 
@@ -40,31 +40,82 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **📊 Python Data Science Libraries**
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ### **🧠 Machine Learning & AI**
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
-### **☁️ Cloud & Big Data**
+### **🗄️ Databases & Storage**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=Amazon%20Redshift&logoColor=white)
+
+### **📈 Data Visualization & BI**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### **☁️ Cloud Platforms & Big Data**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-### **📊 Business Intelligence & Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+### **🔄 ETL & Data Pipeline Tools**
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS EMR](https://img.shields.io/badge/AWS%20EMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### **🚀 Development & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+### **🌐 Web Development & Deployment**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **📊 Statistical Analysis & Testing**
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF6B6B?style=for-the-badge&logo=testing-library&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time%20Series-4CAF50?style=for-the-badge&logo=analytics&logoColor=white)
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-9C27B0?style=for-the-badge&logo=statistics&logoColor=white)
+![SPC](https://img.shields.io/badge/SPC-FF9800?style=for-the-badge&logo=quality&logoColor=white)
+
+### **💼 Productivity & Office Suites**
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=white)
+
+### **🎯 Project Management & Methodologies**
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
+![KPI Development](https://img.shields.io/badge/KPI%20Development-FF6B35?style=for-the-badge&logo=target&logoColor=white)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-4A90E2?style=for-the-badge&logo=handshake&logoColor=white)
 
 </div>
 
@@ -74,22 +125,24 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AKHIL-149&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL-149&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AKHIL-149&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL-149&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AKHIL-149&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AKHIL-149&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
 <div align="center">
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=AKHIL-149&theme=tokyonight&no-frame=true&column=6)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=AKHIL-149&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15)
 
 </div>
+
+<div align="center">
 
 ---
 
@@ -108,13 +161,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AKHIL-149&repo=Fraud-Detection-Project&theme=tokyonight&hide_border=true)](https://github.com/AKHIL-149/Fraud-Detection-Project)
 
 **🎯 Impact:** Advanced fraud detection with ML algorithms | **🛠️ Tech:** Python, Scikit-learn, Data Analysis
-
----
-
-### **💹 Forex Analysis & Prediction**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AKHIL-149&repo=Finance_FX_Analysis&theme=tokyonight&hide_border=true)](https://github.com/AKHIL-149/Finance_FX_Analysis)
-
-**🎯 Impact:** FX market prediction and analysis platform | **🛠️ Tech:** Python, Time Series, Financial Modeling
 
 ---
 
@@ -250,7 +296,7 @@
 
 ### **📊 GitHub Activity Metrics**
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-149&theme=tokyo-night&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-149&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity%20Graph&area=true)
 
 </div>
 
@@ -264,7 +310,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-akhil-mettu-51a48b277)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatakhil149@gmail.com)
-[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/venkata.akhil.mettu)
 
 ### **🤝 Open to Collaboration**
 - 🔬 **Enterprise Data Transformation** projects and initiatives
@@ -301,11 +346,7 @@
 
 ### **🔥 Contribution Streak**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKHIL-149/AKHIL-149/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKHIL-149/AKHIL-149/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AKHIL-149/AKHIL-149/output/github-contribution-grid-snake.svg">
-</picture>
+![GitHub Contribution Heatmap](https://ghchart.rshah.org//2F81F7/AKHIL-149)
 
 ---
 
