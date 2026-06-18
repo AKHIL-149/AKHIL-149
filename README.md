@@ -15,7 +15,7 @@
 
 ## 🎯 **Professional Summary**
 
-**Enterprise Data Solutions Expert** with **4+ years** of proven experience architecting scalable data solutions that drive measurable business impact. Currently leading analytics initiatives at **NAVCO Industries**, where I've delivered **15% operational efficiency improvements** and **40% reduction in data processing time** through innovative ML pipelines and automated workflows.
+**Enterprise Data Solutions Expert** with **5+ years** of proven experience architecting scalable data solutions that drive measurable business impact. Currently leading analytics initiatives at **NAVCO Industries**, where I've delivered **15% operational efficiency improvements** and **40% reduction in data processing time** through innovative ML pipelines and automated workflows.
 
 <div align="center">
 
@@ -321,9 +321,9 @@
 ### **🎓 Academic Excellence**
 
 **Master of Science in Data Science** | *Saint Peter's University, New Jersey*  
-**GPA: 3.9/4.0** | *Advanced Coursework:* Big Data Analytics, Machine Learning, Predictive Analytics
+**GPA: 3.97/4.0** | *Advanced Coursework:* Big Data Analytics, Machine Learning, Predictive Analytics
 
-**Bachelor of Engineering in Computer Science** | *AVIT, India*  
+**Bachelor of Engineering in EEE** | *AVIT, India*  
 **GPA: 3.7/4.0** | *Specialization:* Mathematical Modeling, Business Intelligence
 
 ### **🏅 Professional Certifications**
